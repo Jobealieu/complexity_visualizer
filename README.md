@@ -1,4 +1,4 @@
-Complexity Visualizer API
+# Complexity Visualizer API
 A Flask API to analyze and visualize algorithm time complexity.
 
 Features
