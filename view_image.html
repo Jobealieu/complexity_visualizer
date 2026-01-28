@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><title>Graph Viewer</title></head>
+<body>
+    <h1>Complexity Graph</h1>
+    <img id="graph" src="" alt="Graph will appear here">
+    <script>
+        // Paste the base64 string here
+        const base64Data = "PASTE_BASE64_HERE";
+        document.getElementById('graph').src = `data:image/png;base64,${base64Data}`;
+    </script>
+</body>
+</html>
