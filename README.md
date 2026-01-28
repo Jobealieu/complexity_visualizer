@@ -9,7 +9,7 @@ Features
 
 Installation
 # Clone the repository
-git clone https://github.com/waka-man/complexity_visualizer.git
+git clone https://github.com/Jobealieu/complexity_visualizer.git
 cd complexity_visualizer
 
 # Create virtual environment
