@@ -2,6 +2,7 @@ Complexity Visualizer API
 A Flask API to analyze and visualize algorithm time complexity.
 
 Features
+
 	* Analyze bubble sort, linear search, binary search, and nested loops
 	* Returns JSON with execution times and base64-encoded graph
 	* Real-time complexity visualization
